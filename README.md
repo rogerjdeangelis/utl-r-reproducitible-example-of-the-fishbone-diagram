@@ -4,6 +4,11 @@ r reproducitible example of the fishbone diagram
 
     r reproducitible example of the fishbone diagram
 
+    github                                                                                  
+    https://tinyurl.com/9kyerr5p                                                            
+    https://github.com/rogerjdeangelis/utl-r-reproducitible-example-of-the-fishbone-diagram 
+
+
     source for example
     https://rdrr.io/cran/qcc/man/cause.and.effect.html
 
