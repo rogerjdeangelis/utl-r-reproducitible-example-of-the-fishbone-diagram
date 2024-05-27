@@ -4,6 +4,10 @@ r reproducitible example of the fishbone diagram
 
     r reproducitible example of the fishbone diagram
 
+    fishbone graphic                                                                                               
+    https://tinyurl.com/y2pxyspc                                                                                   
+    https://github.com/rogerjdeangelis/utl-r-reproducitible-example-of-the-fishbone-diagram/blob/main/fishbone.pdf 
+
     github                                                                                  
     https://tinyurl.com/9kyerr5p                                                            
     https://github.com/rogerjdeangelis/utl-r-reproducitible-example-of-the-fishbone-diagram 
